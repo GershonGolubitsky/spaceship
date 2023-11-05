@@ -17,4 +17,3 @@ class Settings:
 
     """Create a clock object to control the game frame rate"""
     clock = pygame.time.Clock()
-
